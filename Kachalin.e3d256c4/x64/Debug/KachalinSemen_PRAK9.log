@@ -1,0 +1,4 @@
+﻿  KachalinSemen_PRAK9.cpp
+C:\Users\st310-04\Music\KachalinSemen_PRAK9\KachalinSemen_PRAK9.cpp(64,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\st310-04\Music\KachalinSemen_PRAK9\KachalinSemen_PRAK9.cpp(98,37): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  KachalinSemen_PRAK9.vcxproj -> C:\Users\st310-04\Music\KachalinSemen_PRAK9\x64\Debug\KachalinSemen_PRAK9.exe
